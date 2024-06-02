@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    font-family: "Source Code Pro", monospace;
+}
+
+.navbar {
+    border-bottom: 1 px solid #333333;
+}
+
+.navbar-brand {
+    font-family: "Source Code Pro", monospace;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.nav-link:hover {
+    color: rgb(209, 212, 212);
+}
+
+.bg-dark {
+    background-color: #006994 !important;
+}
+
